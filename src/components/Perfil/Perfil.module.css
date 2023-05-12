@@ -1,0 +1,21 @@
+.header {
+  background-color: var(--corPrincipal);
+  display: flex;
+  flex-direction: column;
+  color: var(--textoSecundario);
+  align-items: center;
+  padding: 140px 0 40px;
+}
+
+.avatar {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  border: 2px solid gray;
+  margin-bottom: 20px;
+}
+
+.name {
+  font-size: 18px;
+
+}
